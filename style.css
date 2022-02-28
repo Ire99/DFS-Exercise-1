@@ -1,0 +1,16 @@
+.word{
+	font-size: 10vw;
+	width: 100vw;
+	line-height: 100vh;
+	text-align: center;
+}
+.red-ball{
+	background: green;
+	width: 2.5rem;
+	height: 2.5rem;
+	border-radius: 50%;
+	position: fixed;
+	top: 60%;
+	left: 50%;
+  transform: translate(-1.5rem, -1.5rem)
+}
